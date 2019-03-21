@@ -50,7 +50,7 @@ Security measures needed (1st and only line of defense):
  * Browser history manipulation
 
 ### Access Token Refresh
-Further Authorization Requests are sent to the AS in order to obtain fresh access tokens. Those requests are typically performend in an invisible iFrame. This iFrame is affected by the 3rd party Cookie policy of the browser (see discussion below). 
+Further Authorization Requests are sent to the AS in order to obtain fresh access tokens. Those requests are typically performed in an invisible iFrame. This iFrame is affected by the 3rd party Cookie policy of the browser (see discussion below). 
 
 ### Code
  
